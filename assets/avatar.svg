@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="480" viewBox="0 0 432 480" role="img" aria-labelledby="title desc">
+  <title id="title">Mingfang Ji</title>
+  <desc id="desc">An abstract monogram of the initials MJ.</desc>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#c9d8e1" stroke-width="1" opacity=".52"/></pattern>
+    <clipPath id="frame"><rect width="432" height="480" rx="8"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <path fill="#eef3f6" d="M0 0h432v480H0z"/>
+    <path fill="url(#grid)" d="M0 0h432v480H0z"/>
+    <g fill="none" stroke="#b8cedb" stroke-width="1.5">
+      <circle cx="348" cy="105" r="142"/>
+      <circle cx="348" cy="105" r="178"/>
+      <circle cx="348" cy="105" r="214"/>
+    </g>
+    <path d="M32 44h26M45 31v26M374 421h26M387 408v26" stroke="#6890aa" stroke-width="1.5"/>
+    <text x="216" y="276" text-anchor="middle" fill="#3b617a" font-family="Georgia, 'Times New Roman', serif" font-size="132" letter-spacing="-8">MJ</text>
+    <path d="M186 317h60" stroke="#8aa7ba" stroke-width="1.5"/>
+    <text x="216" y="356" text-anchor="middle" fill="#59778b" font-family="Arial, sans-serif" font-size="15" letter-spacing="5">MINGFANG JI</text>
+  </g>
+</svg>
